@@ -15,10 +15,10 @@ A simple Flutter application to manage your notes. This app allows you to create
 Here are some screenshots of the app in action:
 
 ### Note List
-![Note List](screenshots/ListNotes.png)
+![Note List](screenshots/ListNotes.png | width=300)
 
 ### Note Detail
-![Note Detail](screenshots/AddNote.png)
+![Note Detail](screenshots/AddNote.png | width=300)
 
 ## Getting Started
 
